@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/infinity-network/static/css/main.f66ca81c.css",
-    "main.js": "/infinity-network/static/js/main.a97df2e7.js",
+    "main.js": "/infinity-network/static/js/main.97633183.js",
     "static/css/839.433b82e9.chunk.css": "/infinity-network/static/css/839.433b82e9.chunk.css",
     "static/js/839.3bbf630e.chunk.js": "/infinity-network/static/js/839.3bbf630e.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/infinity-network/static/js/787.28cb0dcd.chunk.js",
     "static/media/preloader.gif": "/infinity-network/static/media/preloader.e2ef5a7f08b166c67464.gif",
     "index.html": "/infinity-network/index.html",
     "main.f66ca81c.css.map": "/infinity-network/static/css/main.f66ca81c.css.map",
-    "main.a97df2e7.js.map": "/infinity-network/static/js/main.a97df2e7.js.map",
+    "main.97633183.js.map": "/infinity-network/static/js/main.97633183.js.map",
     "839.433b82e9.chunk.css.map": "/infinity-network/static/css/839.433b82e9.chunk.css.map",
     "839.3bbf630e.chunk.js.map": "/infinity-network/static/js/839.3bbf630e.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/infinity-network/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f66ca81c.css",
-    "static/js/main.a97df2e7.js"
+    "static/js/main.97633183.js"
   ]
 }
