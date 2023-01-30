@@ -1,1 +1,1 @@
-# react-infinity
+# infinity-network
