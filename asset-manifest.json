@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-infinity-app/static/css/main.6cb6cebb.css",
-    "main.js": "/react-infinity-app/static/js/main.197f382c.js",
+    "main.css": "/react-infinity-app/static/css/main.b53fe82b.css",
+    "main.js": "/react-infinity-app/static/js/main.5429456a.js",
     "static/css/839.fe67152a.chunk.css": "/react-infinity-app/static/css/839.fe67152a.chunk.css",
     "static/js/839.c6601988.chunk.js": "/react-infinity-app/static/js/839.c6601988.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-infinity-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/preloader.gif": "/react-infinity-app/static/media/preloader.e2ef5a7f08b166c67464.gif",
     "index.html": "/react-infinity-app/index.html",
-    "main.6cb6cebb.css.map": "/react-infinity-app/static/css/main.6cb6cebb.css.map",
-    "main.197f382c.js.map": "/react-infinity-app/static/js/main.197f382c.js.map",
+    "main.b53fe82b.css.map": "/react-infinity-app/static/css/main.b53fe82b.css.map",
+    "main.5429456a.js.map": "/react-infinity-app/static/js/main.5429456a.js.map",
     "839.fe67152a.chunk.css.map": "/react-infinity-app/static/css/839.fe67152a.chunk.css.map",
     "839.c6601988.chunk.js.map": "/react-infinity-app/static/js/839.c6601988.chunk.js.map",
     "787.28cb0dcd.chunk.js.map": "/react-infinity-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cb6cebb.css",
-    "static/js/main.197f382c.js"
+    "static/css/main.b53fe82b.css",
+    "static/js/main.5429456a.js"
   ]
 }
