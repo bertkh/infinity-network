@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-infinity-app/static/css/main.deb56837.css",
-    "main.js": "/react-infinity-app/static/js/main.94f8a12b.js",
+    "main.js": "/react-infinity-app/static/js/main.f8c1c0f7.js",
     "static/css/468.f78f2062.chunk.css": "/react-infinity-app/static/css/468.f78f2062.chunk.css",
     "static/js/468.e9786df8.chunk.js": "/react-infinity-app/static/js/468.e9786df8.chunk.js",
     "static/css/194.cafe0489.chunk.css": "/react-infinity-app/static/css/194.cafe0489.chunk.css",
@@ -10,11 +10,12 @@
     "static/js/145.e1d0ee77.chunk.js": "/react-infinity-app/static/js/145.e1d0ee77.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/react-infinity-app/static/js/787.28cb0dcd.chunk.js",
     "static/js/835.2d3bc38c.chunk.js": "/react-infinity-app/static/js/835.2d3bc38c.chunk.js",
+    "static/media/Al.jpg": "/react-infinity-app/static/media/Al.e945c5a4bae79b86ac48.jpg",
     "static/media/AppLogo.png": "/react-infinity-app/static/media/AppLogo.70d4705afc7c28de4a31.png",
     "static/media/preloader.gif": "/react-infinity-app/static/media/preloader.e2ef5a7f08b166c67464.gif",
     "index.html": "/react-infinity-app/index.html",
     "main.deb56837.css.map": "/react-infinity-app/static/css/main.deb56837.css.map",
-    "main.94f8a12b.js.map": "/react-infinity-app/static/js/main.94f8a12b.js.map",
+    "main.f8c1c0f7.js.map": "/react-infinity-app/static/js/main.f8c1c0f7.js.map",
     "468.f78f2062.chunk.css.map": "/react-infinity-app/static/css/468.f78f2062.chunk.css.map",
     "468.e9786df8.chunk.js.map": "/react-infinity-app/static/js/468.e9786df8.chunk.js.map",
     "194.cafe0489.chunk.css.map": "/react-infinity-app/static/css/194.cafe0489.chunk.css.map",
@@ -26,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.deb56837.css",
-    "static/js/main.94f8a12b.js"
+    "static/js/main.f8c1c0f7.js"
   ]
 }
