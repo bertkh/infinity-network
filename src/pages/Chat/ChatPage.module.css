@@ -1,0 +1,13 @@
+.messageBlock {
+    display: flex;
+    margin: 10px;
+}
+.messageBlock img {
+    width: 40px;
+    border-radius: 20px;
+    margin-right: 5px
+}
+.messageText {
+    padding-top: 5px;
+}
+

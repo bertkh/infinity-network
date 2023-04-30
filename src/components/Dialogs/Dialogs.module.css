@@ -1,0 +1,16 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItems {
+    padding: 10px;
+}
+.dialog {
+    padding: 35px 0;
+}
+.header {
+    grid-area: h;
+}
+.header img {
+    width: 100px;
+}

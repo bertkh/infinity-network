@@ -1,0 +1,24 @@
+.descriptionBlock {
+    display: flex;
+    /*width: 400px;*/
+    margin-bottom: 20px;
+
+}
+.profilePhoto {
+    /*padding-left: 10px;*/
+    width: 250px;
+}
+.infoBlock {
+    display: block;
+    margin-left: 20px;
+}
+.contBlock {
+    width: 1000px;
+}
+.mainPhoto {
+    max-width: 250px;
+    /*border-radius: 2px;*/
+}
+.contact {
+    padding-left: 10px;
+}

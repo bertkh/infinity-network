@@ -1,0 +1,22 @@
+.userPhoto {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.allUsers {
+    margin: 15px;
+    display: flex;
+    width: 300px;
+}
+.userName {
+    font-weight: bold;
+}
+.userBLock {
+    margin-left: 10px;
+}
+.userStatus {
+    font-style: italic;
+}
+.userId {
+    font-weight: normal;
+}

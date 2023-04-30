@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    /*display: flex;*/
+    /*width: 100px;*/
+    /*background-color: #FF5E3A;*/
+    background: url('https://olympus.crumina.net/wp-content/uploads/2020/07/landing-bg.jpg') repeat-y;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+.item a {
+    color: azure;
+    text-decoration: none;
+}
+.item a.activeLink {
+    color: gold;
+}

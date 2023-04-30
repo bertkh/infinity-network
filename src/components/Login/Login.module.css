@@ -1,0 +1,19 @@
+.loginForm {
+    font-weight: 700;
+    color: #3f4257;
+    margin-left: 10px;
+
+}
+.btnLoginForm {
+    width: 100px;
+}
+[type = 'checkbox'] {
+    width: 20px;
+    float: left;
+}
+.rememberMe{
+    width: 200px;
+    float: left;
+    font-weight: 500;
+}
+
