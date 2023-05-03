@@ -1,19 +1,18 @@
-## ✍️ Infinity-network
-- социальная сеть для Web-разработчиков на React / Redux / TypeScript.
+# ♾️ Infinity-network
+- Социальная сеть для Web-разработчиков на React / Redux / TypeScript.
 ## ⚒️ Стек технологий:
 - **React**
 - **TypeScript**
 - **Redux**
 - **React Router v6**
 - **Axios + Fetch**
-
 - Ant Design, Formik, CSS
 - React Hooks, Redux Thunk, HOC, Reselect, React Router
 - React классовые и функциональные компоненты
 - Prettier (форматирование кода)
 - Authorization, Captcha, Pagination, Chat with WebSocket
 - Работа с REST-API
-- Git, GitHub
+- Git, GitHub 
 
 ## 🖥️ Возможности приложения 
 - [x] Авторизация
@@ -29,6 +28,6 @@
 - [ ] Настройки
 
 ## 🎮 Тестовый аккаунт для входа:
-Email: free@samuraijs.com
-Password: free
+Email: free@samuraijs.com  
+Password: free  
 social-network.samuraijs.com - API
