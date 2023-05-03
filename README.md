@@ -30,4 +30,4 @@
 ## 🎮 Тестовый аккаунт для входа:
 Email: free@samuraijs.com  
 Password: free  
-social-network.samuraijs.com - API
+API: https://social-network.samuraijs.com/docs
