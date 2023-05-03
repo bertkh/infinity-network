@@ -1,5 +1,5 @@
-## ✍️ infinity-network - социальная сеть для Web-разработчиков на React / Redux / TypeScript.
-
+## ✍️ Infinity-network
+- социальная сеть для Web-разработчиков на React / Redux / TypeScript.
 ## ⚒️ Стек технологий:
 - **React**
 - **TypeScript**
