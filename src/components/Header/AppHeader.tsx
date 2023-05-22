@@ -69,9 +69,8 @@ export const AppHeader: React.FC<MapPropsType> = () => {
                             ? <div>
                                 <Link to={'/profile'}>
                                     <Avatar
-                                        src={ava ? ava : userPhoto} size={40}
+                                        icon={<UserOutlined/>} size={40}
                                         alt={login || ''}
-                                        // icon={<UserOutlined/>}
                                     />
                                 </Link>
 
