@@ -28,7 +28,7 @@ const News = () => {
                 Test - userId - 1079 - test profile -
                 <div className={s.someTab}></div>
                 <a
-                    href="https://bertkh.github.io/profile/1079"
+                    href="https://bybert.github.io/profile/1079"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -41,7 +41,7 @@ const News = () => {
                 Albert Khamzin - userId - 26724 - my profile -
                 <div className={s.someTab}></div>
                 <a
-                    href="https://bertkh.github.io/profile/26724"
+                    href="https://bybert.github.io/profile/26724"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -54,7 +54,7 @@ const News = () => {
                 And see my
                 <div className={s.someTab}></div>
                 <a
-                    href="https://github.com/bertkh/react-infinity-app"
+                    href="https://github.com/bybert/react-infinity-app"
                     target="_blank"
                     rel="noopener noreferrer"
                 ><GithubOutlined/> GitHub
@@ -68,7 +68,7 @@ const News = () => {
                 You can ask me any questions in
                 <div className={s.someTab}></div>
                 <a
-                    href="https://www.linkedin.com/in/bertqa/"
+                    href="https://www.linkedin.com/in/bybert/"
                     target="_blank"
                     rel="noopener noreferrer"
                 ><LinkedinOutlined/> Linkedin
